@@ -1,4 +1,6 @@
-### Hi there 👋
+
+
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/Blog-JollyLiu-%23333?style=for-the-badge" alt="Blog" /> </a>
 
 <!--
 **xiumubai/xiumubai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[博客： https://xiumubai.github.io/](https://xiumubai.github.io/)
+
+[掘金：https://juejin.cn/user/430664288573789/posts](https://juejin.cn/user/430664288573789/posts)
+
+[![xiumubai github stats](https://github-readme-stats.vercel.app/api?username=xiumubai&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
