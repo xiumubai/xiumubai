@@ -22,12 +22,13 @@
 ![React](https://img.shields.io/badge/-React-orange)
 ![Vue](https://img.shields.io/badge/-Vue-green)
 
-### 今年目标
+### 2022今年目标
 
 - [X] 掘进达到V3，V3已经达成，继续冲击V4
-- [ ] 写12篇掘金文章
+- [X] 写12篇掘金文章
 - [ ] 博客可以实现自动化部署
-- [ ] 红宝书看一遍，已看到第六章
+- [ ] React-core
+- [ ] 买房
 
 ### 微信公众号「朽木学社」
 
