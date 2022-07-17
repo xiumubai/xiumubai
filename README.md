@@ -27,7 +27,7 @@
 - [X] 掘进达到V3，V3已经达成，继续冲击V4
 - [X] 写12篇掘金文章
 - [ ] 前端自动化部署
-- [ ] React-core
+- [X] React-core
 - [ ] Vue-core
 - [ ] Webpack-courses
 - [ ] 买房
