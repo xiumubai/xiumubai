@@ -26,11 +26,11 @@
 
 - [X] 掘进达到V3，V3已经达成，继续冲击V4
 - [X] 写12篇掘金文章
-- [ ] 前端自动化部署
+- [X] 前端自动化部署(使用vercel)
 - [X] React-core
-- [ ] Vue-core
-- [ ] Webpack-courses
-- [ ] 买房
+- [X] Vue-core
+- [X] Webpack-courses
+- [X] 买房
 
 ### 微信公众号「朽木学社」
 
