@@ -20,11 +20,11 @@
 
 | 项目  | 描述  | 主页  | Star |
 | --- | --- | --- | --- |
-| [Home](https://github.com/xiumubai/me) | 🌈个人主页 | [https://www.xiumubai.com/](https://www.xiumubai.com/)  |  <img src="https://img.shields.io/github/stars/xiumubai/me"/>   |
-| [Blog](https://github.com/xiumubai/vivace-doc) | 💪个人博客 | [https://blog.xiumubai.com/](https://blog.xiumubai.com/)  |  <img src="https://img.shields.io/github/stars/xiumubai/vivace-doc"/>   |
+| <a href="https://github.com/xiumubai/me" target="_blank">Home</a> | 🏠个人主页 | [https://www.xiumubai.com/](https://www.xiumubai.com/)  |  <img src="https://img.shields.io/github/stars/xiumubai/me"/>   |
+| [Blog](https://github.com/xiumubai/vivace-doc) | ✨个人博客 | [https://blog.xiumubai.com/](https://blog.xiumubai.com/)  |  <img src="https://img.shields.io/github/stars/xiumubai/vivace-doc"/>   |
 | [Interview](https://github.com/xiumubai/interview-doc) | 📚 前端面试题 | [http://interview.xiumubai.com/](http://interview.xiumubai.com/)  |  <img src="https://img.shields.io/github/stars/xiumubai/interview-doc"/>   |
 | [Vivace-UI](https://github.com/xiumubai/vivace-ui) | 🌻使用vite+vue3搭建的UI组件库 | [https://vivace-admin.vercel.app/](https://vivace-admin.vercel.app/)  |  <img src="https://img.shields.io/github/stars/xiumubai/vivace-ui"/>   |
-| [Vivace-tool](https://github.com/xiumubai/vivace-tool) | 🔥常用工具库函数集合 | [https://vivace-tool.vercel.app/](https://vivace-tool.vercel.app/)  |  <img src="https://img.shields.io/github/stars/xiumubai/vivace-tool"/>   |
+| [Vivace-tool](https://github.com/xiumubai/vivace-tool) | 🔨常用工具库函数集合 | [https://vivace-tool.vercel.app/](https://vivace-tool.vercel.app/)  |  <img src="https://img.shields.io/github/stars/xiumubai/vivace-tool"/>   |
 | [glwk-app](https://github.com/xiumubai/glwk-app) | 🍭谷粒微课小程序 | [https://github.com/xiumubai/glwk-app](https://github.com/xiumubai/glwk-app)  |  <img src="https://img.shields.io/github/stars/xiumubai/glwk-app"/>   |
 | [vivace-utils-demo](https://github.com/xiumubai/vivace-utils-demo) | 🥭 发布npm包，整套流程规范开发demo | [https://www.yuque.com/xiumubai/fe/lrnuv3](https://www.yuque.com/xiumubai/fe/lrnuv3)  |  <img src="https://img.shields.io/github/stars/xiumubai/vivace-utils-demo"/>   |
 | [vitepress-template](https://github.com/xiumubai/vitepress-template) | 🍀 vietepress搭建文档，开箱即用模版 | [https://github.com/xiumubai/vitepress-template](https://github.com/xiumubai/vitepress-template)  |  <img src="https://img.shields.io/github/stars/xiumubai/vitepress-template"/>   |
