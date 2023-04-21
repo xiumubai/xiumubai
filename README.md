@@ -36,3 +36,7 @@
 <!--[![xiumubai github stats](https://github-readme-stats.vercel.app/api?username=xiumubai&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiumubai&theme=radical"> -->
+
+### 联系我
+
+<img src="https://files.mdnice.com/user/15628/9c4b3d01-88a7-4866-877b-35f89eeaa552.jpg" width="300px"  height="300px"/>
