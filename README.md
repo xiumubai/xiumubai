@@ -1,15 +1,11 @@
 <p align="center">👋 Hi，我是<i>朽木白</i></p>
 
 <p align="center">
-  <a href="https://www.xiumubai.com/" target="_black">个人主页</a>
+  <a href="https://www.yuque.com/xiumubai" target="_black">个人主页</a>
   ·
   <a href="https://juejin.cn/user/430664288573789/posts" target="_black">掘金</a>
   ·
   <a href="https://space.bilibili.com/511605498?spm_id_from=333.337.search-card.all.click" target="_black">B站</a>
-  ·
-  <a href="https://blog.xiumubai.com/" target="_black">Blog</a>
-  ·
-  <a href="http://interview.xiumubai.com/" target="_black">Interview</a>
   ·
   <a href="https://vivace-admin.vercel.app/" target="_black">vivace-ui</a>
   ·
