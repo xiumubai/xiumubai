@@ -1,30 +1,73 @@
 <p align="center">👋 Hi，我是<i>朽木白</i></p>
 
-<p align="center">
-  <a href="https://www.yuque.com/xiumubai" target="_black">个人主页</a>
+
+### About Me
+
+👨‍🎓 教育 |  LDDX · 软件工程 · 本科
+
+👨‍💻 工作 |  北京 · 前端研究员 · IT培训
+
+<p>
+  🏷️ 技术 |  
+  <img src="https://img.shields.io/badge/JavaScript-blue.svg?style=plasticr" /> 
+  <img src="https://img.shields.io/badge/TypeScript-blue.svg?style=plasticr" /> 
+  <img src="https://img.shields.io/badge/React-blue.svg?style=plasticr" /> 
+  <img src="https://img.shields.io/badge/Vue-blue.svg?style=plasticr" /> 
+  <img src="https://img.shields.io/badge/Node-blue.svg?style=plasticr" /> 
+  <img src="https://img.shields.io/badge/Nest-blue.svg?style=plasticr" /> 
+</p> 
+
+<p>
+  🔥 个人主页 | 
+  <a href="https://www.yuque.com/xiumubai" target="_black">语雀</a>
   ·
   <a href="https://juejin.cn/user/430664288573789/posts" target="_black">掘金</a>
   ·
   <a href="https://space.bilibili.com/511605498?spm_id_from=333.337.search-card.all.click" target="_black">B站</a>
-  ·
-  <a href="https://vivace-admin.vercel.app/" target="_black">vivace-ui</a>
-  ·
-  <a href="https://vivace-tool.vercel.app/" target="_black">vivace-tool</a>
 </p>
+
+💫 公众号 | 「白哥学前端」
+
+<p>
+  📖 开发技术文档 | 
+  「<a href="https://www.yuque.com/xiumubai/fe">前端研究院</a>」
+  ·
+  「<a href="https://www.yuque.com/xiumubai/open">白哥开源社区</a>」
+</p>
+
+### 开源社区
+开源社区现在是我主要做的事情，目前正在进行中。可点击「<a href="https://www.yuque.com/xiumubai/open">白哥开源社区</a>」查看详情。
+
+开源的目的主要是做一些常用业界解决方案，让参与的人员可以在公司拿来即用。
+
+同时也会聚集一帮稳定人群，后期考虑做外包项目。 
+
+如果你也对开源感兴趣，添加我的私人微信，我邀请你进「开源群」。
+
+
+| 联系我「xiumubai01」  | 公众号「白哥学前端」  |
+| --- | --- |
+| <img src="https://files.mdnice.com/user/15628/9c4b3d01-88a7-4866-877b-35f89eeaa552.jpg" width="240px"  height="240px"/> | <img src="https://files.mdnice.com/user/15628/acdb13f6-8613-4451-b80e-c1f5df98f2ea.png" width="240px"  height="240px"/>
+
 
 ### My Project
 
-| 项目  | 描述  | 主页  | Star |
-| --- | --- | --- | --- |
-| <a href="https://github.com/xiumubai/me" target="_blank">Home</a> | 🏠个人主页 | [https://www.xiumubai.com/](https://www.xiumubai.com/)  |  <img src="https://img.shields.io/github/stars/xiumubai/me"/>   |
-| [Blog](https://github.com/xiumubai/vivace-doc) | ✨个人博客 | [https://blog.xiumubai.com/](https://blog.xiumubai.com/)  |  <img src="https://img.shields.io/github/stars/xiumubai/vivace-doc"/>   |
-| [Interview](https://github.com/xiumubai/interview-doc) | 📚 前端面试题 | [http://interview.xiumubai.com/](http://interview.xiumubai.com/)  |  <img src="https://img.shields.io/github/stars/xiumubai/interview-doc"/>   |
-| [Vivace-UI](https://github.com/xiumubai/vivace-ui) | 🌻使用vite+vue3搭建的UI组件库 | [https://vivace-admin.vercel.app/](https://vivace-admin.vercel.app/)  |  <img src="https://img.shields.io/github/stars/xiumubai/vivace-ui"/>   |
-| [Wood-UI](https://github.com/xiumubai/wood-ui) | 🌻使用react+dumi搭建的UI组件库 | [http://wood.xiumubai.com/](http://wood.xiumubai.com/)  |  <img src="https://img.shields.io/github/stars/xiumubai/wood-ui"/>   |
-| [Vivace-tool](https://github.com/xiumubai/vivace-tool) | 🔨常用工具库函数集合 | [https://vivace-tool.vercel.app/](https://vivace-tool.vercel.app/)  |  <img src="https://img.shields.io/github/stars/xiumubai/vivace-tool"/>   |
-| [glwk-app](https://github.com/xiumubai/glwk-app) | 🍭谷粒微课小程序 | [https://github.com/xiumubai/glwk-app](https://github.com/xiumubai/glwk-app)  |  <img src="https://img.shields.io/github/stars/xiumubai/glwk-app"/>   |
-| [vivace-utils-demo](https://github.com/xiumubai/vivace-utils-demo) | 🥭 发布npm包，整套流程规范开发demo | [https://www.yuque.com/xiumubai/fe/lrnuv3](https://www.yuque.com/xiumubai/fe/lrnuv3)  |  <img src="https://img.shields.io/github/stars/xiumubai/vivace-utils-demo"/>   |
-| [vitepress-template](https://github.com/xiumubai/vitepress-template) | 🍀 vietepress搭建文档，开箱即用模版 | [https://github.com/xiumubai/vitepress-template](https://github.com/xiumubai/vitepress-template)  |  <img src="https://img.shields.io/github/stars/xiumubai/vitepress-template"/>   |
+| name  | description  | home  | 
+| --- | --- | --- |
+| [Interview](https://github.com/xiumubai/interview-doc) | 前端面试题 | [http://interview.xiumubai.com/](http://interview.xiumubai.com/)  |
+| [Vivace-UI](https://github.com/xiumubai/vivace-ui) | 使用vite+vue3搭建的UI组件库 | [https://vivace-admin.vercel.app/](https://vivace-admin.vercel.app/)  |  <img src="https://img.shields.io/github/stars/xiumubai/vivace-ui"/>   |
+| [Vivace-tool](https://github.com/xiumubai/vivace-tool) | 常用工具库函数集合 | [https://vivace-tool.vercel.app/](https://vivace-tool.vercel.app/)  | 
+| [glwk-app](https://github.com/xiumubai/glwk-app) | 谷粒微课小程序（uni-app-cli版） | [https://github.com/xiumubai/glwk-app](https://github.com/xiumubai/glwk-app)  |  
+| [guigu-flower-mall](https://github.com/xiumubai/guigu-flower-mall) | 幕尚花坊小程序（原生版） | [https://github.com/xiumubai/guigu-flower-mall](https://github.com/xiumubai/guigu-flower-mall)  |  
+| [guigu-shp-mall-mp](https://github.com/xiumubai/guigu-shp-mall-mp) | 尚品汇微信小程序（原生版） | [https://github.com/xiumubai/guigu-shp-mall-mp](https://github.com/xiumubai/guigu-shp-mall-mp) 
+| [listen-to-books](https://gitee.com/xiumubai/listen-to-books) | 硅谷听书小程序（uni-app版本） | [https://gitee.com/xiumubai/listen-to-books](https://gitee.com/xiumubai/listen-to-books) 
+| [guigu-sph-mall-admin](https://github.com/xiumubai/guigu-sph-mall-admin) | 尚品汇后台管理系统（vue3版本） | [https://github.com/xiumubai/guigu-sph-mall-admin](https://github.com/xiumubai/guigu-sph-mall-admin) 
+| [gshop-vue3-client](https://github.com/xiumubai/gshop-vue3-client) | 尚品汇PC端（vue3版本） | [https://github.com/xiumubai/gshop-vue3-client](https://github.com/xiumubai/gshop-vue3-client)
+| [syt-vue3](https://github.com/xiumubai/syt-vue3) | 尚医通PC客户端（vue3） | [https://github.com/xiumubai/syt-vue3](https://github.com/xiumubai/syt-vue3)
+| [syt-admin-vue3](https://github.com/xiumubai/syt-admin-vue3) | 尚医通后台管理系统(vue3) | [https://github.com/xiumubai/syt-admin-vue3](https://github.com/xiumubai/syt-admin-vue3) 
+| [syt-react](https://gitee.com/guigu-fe/syt-react) | 尚医通PC客户端（react18） | [https://gitee.com/guigu-fe/syt-react](https://gitee.com/guigu-fe/syt-react)
+| [syt-admin-react](https://github.com/xiumubai/syt-admin-react) | 尚医通后台管理系统(react18) | [https://github.com/xiumubai/syt-admin-react](https://github.com/xiumubai/syt-admin-react)
+| [live-vue3-admin](https://github.com/xiumubai/live-vue3-admin) | 视频直播后台管理系统(vue3) | [https://github.com/xiumubai/live-vue3-admin](https://github.com/xiumubai/live-vue3-admin)
 
 
 
@@ -33,6 +76,7 @@
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiumubai&theme=radical"> -->
 
-### 联系我
 
-<img src="https://files.mdnice.com/user/15628/9c4b3d01-88a7-4866-877b-35f89eeaa552.jpg" width="300px"  height="300px"/>
+
+
+
