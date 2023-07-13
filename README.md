@@ -54,7 +54,7 @@
 
 | name  | description  | home  | 
 | --- | --- | --- |
-| [Interview](https://github.com/xiumubai/interview-doc) | 前端面试题 | [http://interview.xiumubai.com/](http://interview.xiumubai.com/)  |
+| [Interview](https://github.com/xiumubai/interview-doc) | 前端面试题 | [https://interview-doc.vercel.app/](https://interview-doc.vercel.app/)  |
 | [Vivace-UI](https://github.com/xiumubai/vivace-ui) | 使用vite+vue3搭建的UI组件库 | [https://vivace-admin.vercel.app/](https://vivace-admin.vercel.app/)  |  <img src="https://img.shields.io/github/stars/xiumubai/vivace-ui"/>   |
 | [Vivace-tool](https://github.com/xiumubai/vivace-tool) | 常用工具库函数集合 | [https://vivace-tool.vercel.app/](https://vivace-tool.vercel.app/)  | 
 | [glwk-app](https://github.com/xiumubai/glwk-app) | 谷粒微课小程序（uni-app-cli版） | [https://github.com/xiumubai/glwk-app](https://github.com/xiumubai/glwk-app)  |  
