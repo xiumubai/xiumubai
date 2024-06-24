@@ -32,23 +32,17 @@
   📖 开发技术文档 | 
   「<a href="https://www.yuque.com/xiumubai/fe">前端研究院</a>」
   ·
-  「<a href="https://www.yuque.com/xiumubai/open">白哥开源社区</a>」
+  「<a href="https://www.yuque.com/xiumubai/doc">前端渡劫秘籍</a>」
 </p>
 
-### 开源社区
-开源社区现在是我主要做的事情，目前正在进行中。可点击「<a href="https://www.yuque.com/xiumubai/open">白哥开源社区</a>」查看详情。
-
-开源的目的主要是做一些常用业界解决方案，让参与的人员可以在公司拿来即用。
-
-同时也会聚集一帮稳定人群，后期考虑做外包项目。 
-
-如果你也对开源感兴趣，添加我的私人微信，我邀请你进「开源群」。
-
+### 渡劫群
+如果你正在找工作，可点击「<a href="https://www.yuque.com/xiumubai/doc">白哥开源社区</a>」查看详情，进入渡劫群，或者直接扫描下方二维码，加我好友，注明来意。
 
 | 联系我「xiumubai01」  | 公众号「白哥学前端」  |
 | --- | --- |
 | <img src="https://files.mdnice.com/user/15628/9c4b3d01-88a7-4866-877b-35f89eeaa552.jpg" width="240px"  height="240px"/> | <img src="https://files.mdnice.com/user/15628/acdb13f6-8613-4451-b80e-c1f5df98f2ea.png" width="240px"  height="240px"/>
 
+<!--
 
 ### My Project
 
@@ -69,6 +63,7 @@
 | [syt-admin-react](https://github.com/xiumubai/syt-admin-react) | 尚医通后台管理系统(react18) | [https://github.com/xiumubai/syt-admin-react](https://github.com/xiumubai/syt-admin-react)
 | [live-vue3-admin](https://github.com/xiumubai/live-vue3-admin) | 视频直播后台管理系统(vue3) | [https://github.com/xiumubai/live-vue3-admin](https://github.com/xiumubai/live-vue3-admin)
 
+-->
 
 
 
