@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/Vue-blue.svg?style=plasticr" /> 
   <img src="https://img.shields.io/badge/Node-blue.svg?style=plasticr" /> 
   <img src="https://img.shields.io/badge/Nest-blue.svg?style=plasticr" /> 
+  <img src="https://img.shields.io/badge/Next-blue.svg?style=plasticr" /> 
 </p> 
 
 <p>
